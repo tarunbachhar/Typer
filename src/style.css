@@ -1,0 +1,100 @@
+.header {
+  text-align: center;
+  background-color: #66b3ff;
+  padding-top: 0.5em;
+  padding-bottom: 0.7em;
+}
+.main {
+  text-align: center;
+  background-color: black;
+  padding-top: 0.8em;
+  padding-bottom: 0.8em;
+  color: white;
+}
+.footer {
+  text-align: center;
+  background-color: #66b3ff;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+}
+body {
+  font-family: Abril Fatface;
+    overflow-x: hidden;
+}
+.textarea1 {
+  margin-top: 1.8em;
+  margin-right: 3.5em;
+  border-radius: 10px;
+  background-color: #b3ffb3;
+  padding: 0.8em;
+  color: black;
+  font-weight: bold;
+  font-family: Roboto Condensed;
+  font-size: 16px;
+}
+textarea:focus {
+  outline:none;
+}
+.textarea2 {
+  margin-top: 1.8em;
+  margin-left: 3.5em;
+  border-radius: 10px;
+  background-color: #ffbb99;
+  padding: 0.8em;
+  color: black;
+  font-weight: bold;
+  font-family: Roboto Condensed;
+  font-size: 16px;
+}
+.btn {
+  font-family:sans-serif;
+  background-color: #ff3300;
+}
+.btn:focus {
+  outline: none;
+}
+.btn:hover{
+  background-color: #ff3300;
+}
+.battan {
+text-align: left;
+margin-left: 10.5em;
+margin-bottom: 1em;
+}
+.time {
+  text-align: left;
+  margin-left:2em;
+}
+.bt1 {
+  margin-right: 12em;
+
+}
+.bt2 {
+  margin-left: 12em;
+}
+.speed , .accuracy , .wpm {
+  display: inline-block;
+}
+.speed {
+  margin-right: 5em;
+}
+.accuracy {
+  margin-left: 5em;
+  margin-right: 5em;
+}
+.wpm {
+  margin-left: 5em;
+}
+.speed1 , .accuracy1 , .wpm1 {
+  display: inline-block;
+}
+.speed1 {
+  margin-right: 2.8em;
+}
+.accuracy1 {
+  margin-left: 5em;
+  margin-right: 6em;
+}
+.wpm1 {
+  margin-left: 3em;
+}
